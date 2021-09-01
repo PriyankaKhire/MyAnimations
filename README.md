@@ -1,2 +1,2 @@
 # MyAnimations
-Experimenting with creating animated GIFs
+<img src="GIFs/Desert Sun.gif">
