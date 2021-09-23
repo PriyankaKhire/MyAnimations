@@ -5,3 +5,4 @@
 <img src="Boy.png">
 <img src="Full-Gir-2.png">
 <img src="Full-Girl.png">
+<img src="Chikku.png">
